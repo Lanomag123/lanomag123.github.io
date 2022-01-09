@@ -3134,7 +3134,7 @@
     -ms-flex-pack: start;
     justify-content: flex-start;
   }
-
+  <a href="http://alpha.zoolana.io" class="nav-link-mint">mint</a>
   .grid-3 {
     grid-column-gap: 0px;
   }
